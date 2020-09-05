@@ -1,5 +1,2 @@
 Este archivo contiene varios datos
-Esta es una nueva linea
-Esta es la tercera linea
-eSTA 4 LINES
-Otra linea mas para este archivo
+Este archivo lo saque de un punto anterior
